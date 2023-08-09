@@ -10,4 +10,3 @@
 |___| |_||__| |__||_______||_______|  |__| |__||___| 
 
 ```
-See our repos for our [desktop application](https://github.com/khoj-ai/khoj) and our [mobile-first service](https://github.com/khoj-ai/flint).
