@@ -1,4 +1,4 @@
-🏮 Khoj is working on creating personalized, trustworthy AI agents that can integrate with your everyday life.
+🏮 Khoj is creating personalized, trustworthy AI that integrates with your everyday life.
 
 ```
  __  __     __  __     ______       __        ______     __    
